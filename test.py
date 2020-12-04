@@ -11,5 +11,4 @@ print('Hello')
 
 ## okay but what if i change the code now ^ 
 
-
-print('and now am i in the test branch if i save this again?')
+print('and now i have merged both the test branch and the another-one branch')
